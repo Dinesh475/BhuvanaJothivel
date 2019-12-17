@@ -6,6 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+=======
+>>>>>>> branch 'master' of https://github.com/BhuvanaJothivel/BhuvanaJothivel.git
 	<classpathentry kind="output" path="bin"/>
 </classpath>
