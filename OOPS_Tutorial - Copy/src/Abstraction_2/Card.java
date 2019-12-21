@@ -1,6 +1,6 @@
 package Abstraction_2;
 
-public class Card {
+public abstract class Card {
 	protected String holderName;
 	protected String cardNumber;
 	protected String expiryDate;

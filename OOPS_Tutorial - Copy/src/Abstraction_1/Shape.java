@@ -1,6 +1,6 @@
 package Abstraction_1;
 
-public class Shape {
+public abstract class Shape {
 	protected String name;
 
 	public Shape(String name) {

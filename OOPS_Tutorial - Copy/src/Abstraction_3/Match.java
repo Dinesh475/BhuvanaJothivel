@@ -1,6 +1,6 @@
 package Abstraction_3;
 
-public class Match {
+public abstract class Match {
 	protected int currentScore;
 	protected float currentOver;
 	protected int target;
